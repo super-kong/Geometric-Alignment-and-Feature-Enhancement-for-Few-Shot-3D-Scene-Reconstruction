@@ -1,0 +1,20 @@
+# ninja log v7
+3	6869	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda.o	6d5692aa2b3e4791
+1	7012	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/attention/attention_cuda.o	9b7846d008d8babd
+0	8016	1766543711290062582	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda.o	1b97e1bd84246f62
+2	8175	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda.o	864dd839275bd98
+1	8203	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/ball_query/ball_query_cuda.o	5621e19c9450ede
+2	8229	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/knn_query/knn_query_cuda.o	8ba0457a0c8c70fa
+2	8261	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/random_ball_query/random_ball_query_cuda.o	8b5282277cc2c140
+3	8395	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda.o	74a9e58a3998834a
+1	9027	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda.o	f9e91141259174c5
+2	15943	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/interpolation/interpolation_cuda_kernel.o	beb0bcc7fab3fdae
+1	16082	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/ball_query/ball_query_cuda_kernel.o	e8f28b93d9b4a781
+0	16103	1766543711290062582	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/aggregation/aggregation_cuda_kernel.o	6d71229cee09cb3e
+1	16135	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/grouping/grouping_cuda_kernel.o	f2a8a4b9494fc998
+2	16206	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/knn_query/knn_query_cuda_kernel.o	9cb8bf588f868005
+3	16211	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/subtraction/subtraction_cuda_kernel.o	bd4221850fc2abe6
+2	16347	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/pointops_api.o	2ce56a83e9eb7b5
+3	16743	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/sampling/sampling_cuda_kernel.o	8658f67bf280754e
+2	16843	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/random_ball_query/random_ball_query_cuda_kernel.o	916e7bc451f01204
+1	17107	1766543711294062660	/home/sari/PycharmProjects/IPSM/LitePT/libs/pointops/build/temp.linux-x86_64-3.8/src/attention/attention_cuda_kernel.o	a422a3d707ed5d7
