@@ -241,4 +241,4 @@ dependencies:
       - werkzeug==3.0.1
       - widgetsnbextension==4.0.9
       - zipp==3.17.0
-prefix: /home/sari/anaconda3/envs/IPSM(cuda116)
+prefix: /home/sari/anaconda3/envs/IPSM_cuda116
