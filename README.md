@@ -10,6 +10,8 @@ The core of our GeoFeat-GS framework integrates geometric awareness, adaptive fe
 - **MAFPN**: The Multi-stage Adaptive Feature Perception Network extracts robust sparse-view features via 3 stages: local feature extraction (lightweight CNN + attention), cross-view adaptive fusion, and global semantic enhancement (transformer). Its view-invariant outputs guide Gaussian optimization.
 - **GCC-PSM**: The Geometric Consistency Constraint with Prior-Guided Score Matching ensures cross-view alignment by minimizing reprojection errors between Gaussians and MAFPN features. Prior-guided score matching leverages scene structure priors to reduce reconstruction ambiguity and stabilize optimization.
 
+![framework](https://github.com/super-kong/Geometric-Alignment-and-Feature-Enhancement-for-Few-Shot-3D-Scene-Reconstruction/blob/master/figure/framework.png)
+
 ## Installation
 
 Ubuntu 20.04, CUDA 11.6, Python 3.8.13, Pytorch 1.12.1+cu116 
