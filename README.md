@@ -1,9 +1,5 @@
 # Geometric Alignment and Feature Enhancement for Few-Shot 3D Scene Reconstruction with Gaussian Splatting
 
-## About This Repository
-This code is directly related to the manuscript submitted to **The Visual Computer**.
-Please cite the corresponding paper if you use this code.
-
 ## Core Algorithm Principle
 The core of our GeoFeat-GS framework integrates geometric awareness, adaptive feature learning, and geometric consistency constraints into 3D Gaussian Splatting (3DGS) to resolve sparse-view reconstruction ambiguity and instability. Key principles are as follows:
 - **Geometry-aware 3DGS**: We initialize Gaussian primitives with higher density in geometrically complex regions (e.g., edges) and lower density in flat regions (via sparse-view rough 3D structure estimation). A geometry-aware loss adjusts update steps by local curvature, enhancing stability and accuracy under sparse observations.
